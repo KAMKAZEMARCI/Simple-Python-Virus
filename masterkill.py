@@ -1,3 +1,4 @@
+#This code will create 1K+ files under 10s
 indicator = 0
 
 while True:
